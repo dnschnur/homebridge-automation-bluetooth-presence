@@ -24,7 +24,7 @@
     "debug": "^4.0.1",
     "fakegato-history": "^0.5.2",
     "hap-nodejs": "^0.4.28",
-    "noble": "@abandonware/noble"
+    "noble": "abandonware/noble"
   },
   "devDependencies": {
     "eslint": "^4.16.0",
